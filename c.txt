@@ -1,0 +1,6 @@
+nova funcaoA()
+funcaoB()
+
+for(var i =0; i < 10; i++){
+    
+}
