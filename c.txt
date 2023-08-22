@@ -2,5 +2,10 @@ nova funcaoA()
 funcaoB()
 
 for(var i =0; i < 10; i++){
-    
+
+}
+
+
+void main(){
+    print("OLá mundo");
 }
