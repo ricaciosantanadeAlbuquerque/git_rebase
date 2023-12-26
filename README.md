@@ -20,7 +20,7 @@ Este projeto visa a prática dos comandos do git.
 
 ### Imegam do rebase no git
 
-![rebase](assets/image/git rebase teste2.png)
+![rebase](assets/image/git_rebase_teste2.png)
 
 
 
