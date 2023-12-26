@@ -46,7 +46,8 @@ Este projeto visa a prática dos comandos do git.
   }
 ```
 
-
+- [x] lista
+- [ ] item 
 
 
 
